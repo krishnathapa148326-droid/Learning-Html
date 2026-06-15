@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning HTML</title>
+</head>
+<body>
+    <h1>Learning HTML</h1>
+    <h2>Learning how to add heading,sub-heading & paragraph in HTML</h2>
+    <p>My name is Krishna Thapa and i am a student at Purbanchal University continuing my bachekors in Gomendra Multiple College. </p>
+    <h3>Background</h3>
+    <p> I completed my undergraduate studies in Computer Science from Purbanchal University in Gomendra Birta Model College.I hold a solid background in computer science and have experience in various programming languages like C, C++, Php, SQL and Python. I am writing this code to upload in GitHub.</p>
+    <h4> Thankyou.</h4>
+</body>
+</html>
